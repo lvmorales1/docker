@@ -1,4 +1,4 @@
-# POC Docker
+# Docker study
 This is a proof of concept for a dockerized application.
 
 ## Dependencies
